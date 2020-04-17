@@ -4,6 +4,6 @@ to show difference of express commit
 
 Learn git
 
-New creation 
+New creation
 
 This is afer updated from prob branch
